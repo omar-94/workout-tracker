@@ -1,4 +1,4 @@
-# E-Commerce Back End (ORM)
+# Workout Tracker
 ![Github License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
